@@ -1,0 +1,8 @@
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                          monkey 30:46:9a:67:b5:22 -70  6,-1    Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                        MonkeyDo b0:48:7a:a7:7b:90 -39  4,+1    Y  -- WPA(PSK/AES/AES) WPA2(PSK/AES/AES) 
+             Sprint MiFi4082 1FD 00:15:ff:01:21:fd -85  1       Y  -- NONE
+                        AARemote 00:1f:6d:b8:9a:11 -61  1       N  US WPA(PSK/TKIP,AES/TKIP) WPA2(PSK/TKIP,AES/TKIP) 
+                             Buz 98:fc:11:71:d6:b0 -46  1       Y  -- WPA2(PSK/TKIP/TKIP) 
+                   MonekeyDouble f4:ec:38:d0:13:87 -69  9,-1    Y  -- WPA(PSK/AES,TKIP/TKIP) WPA2(PSK/AES,TKIP/TKIP) 
+                     orthokorn-1 00:25:9c:42:5b:e0 -72  9,-1    Y  -- WEP
